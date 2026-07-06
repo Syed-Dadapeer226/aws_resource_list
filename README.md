@@ -115,7 +115,7 @@ git clone https://github.com/Syed-Dadapeer226/aws_resource_list.git
 Go to the project directory:
 
 ```bash
-cd aws-resource-lister
+cd aws_resource_list
 ```
 
 Give execute permission:
@@ -281,7 +281,7 @@ If no AWS region is provided, the script automatically uses the region configure
 ~/.aws/config
 ```
 
-Otherwise specify the region manually:
+Otherwise, specify the region manually:
 
 ```bash
 ./aws_resource_list.sh ec2 us-east-1
