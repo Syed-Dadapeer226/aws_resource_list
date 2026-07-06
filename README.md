@@ -67,7 +67,7 @@ Instead of remembering dozens of AWS CLI commands, simply provide the AWS servic
 
 Before running the script, ensure you have:
 
-- AWS CLI installed
+- [**AWS CLI**](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) installed
 - AWS CLI configured
 - Valid IAM credentials
 - Bash shell
@@ -109,7 +109,7 @@ aws sts get-caller-identity
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/aws-resource-lister.git
+git clone https://github.com/Syed-Dadapeer226/aws_resource_list.git
 ```
 
 Go to the project directory:
